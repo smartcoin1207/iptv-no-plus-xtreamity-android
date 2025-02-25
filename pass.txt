@@ -1,0 +1,8 @@
+password :
+qaz12wsx
+
+alias :
+key0
+
+alias password :
+qaz12wsx

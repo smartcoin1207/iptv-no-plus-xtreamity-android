@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Xtreamity</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- Test ADS ID-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_app_open_id">ca-app-pub-3940256099942544/9257395921</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_rewarded_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!-- REAL ADS ID
+    <string name="admob_app_id">ca-app-pub-9700554883020818~6448735809</string>
+    <string name="admob_app_open_id">ca-app-pub-9700554883020818/3439429082</string>
+    <string name="admob_banner_id">ca-app-pub-9700554883020818/3631000774</string>
+    <string name="admob_interstitial_id">ca-app-pub-9700554883020818/3538677021</string>
+    <string name="admob_rewarded_id">ca-app-pub-9700554883020818/8152180193</string>
+-->
+</resources>
